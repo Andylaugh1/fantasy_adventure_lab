@@ -47,4 +47,9 @@ public class RoomTest {
     public void canGetWinner(){
         assertEquals("Player 1 Wins!!!", room.getWinner());
     }
+
+//    @Test
+//    public void canGetWinner(){
+//        assertEquals("Player 2 Wins!!!", room.getWinner());
+//    }
 }

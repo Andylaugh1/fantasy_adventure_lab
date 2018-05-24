@@ -38,4 +38,8 @@ public class Room {
         }
 
     }
+
+//    public int getPlayer2Health(){
+//        int newHealt
+//    }
 }

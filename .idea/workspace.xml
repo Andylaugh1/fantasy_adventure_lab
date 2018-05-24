@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2a7c81f-05eb-4722-be12-7043c1ce7303" name="Default" comment="" />
+    <list default="true" id="f2a7c81f-05eb-4722-be12-7043c1ce7303" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Knight.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Knight.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Room.java" afterPath="$PROJECT_DIR$/src/main/java/Room.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RoomTest.java" afterPath="$PROJECT_DIR$/src/test/java/RoomTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -19,21 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SpellType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SpellType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FighterTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/FighterTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,6 +81,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="SpellType.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SpellType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="MagicalBeingTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MagicalBeingTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,11 +134,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RoomTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RoomTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RoomTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#511#512#0" expanded="true" />
@@ -153,8 +159,8 @@
       <file leaf-file-name="Room.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Room.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding>
                 <element signature="e#373#374#0" expanded="true" />
                 <element signature="e#408#409#0" expanded="true" />
@@ -164,6 +170,28 @@
                 <element signature="e#541#542#0" expanded="true" />
                 <element signature="e#585#586#0" expanded="true" />
                 <element signature="e#629#630#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+              <folding>
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#718#719#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -179,21 +207,6 @@
                 <element signature="e#231#232#0" expanded="true" />
                 <element signature="e#266#267#0" expanded="true" />
                 <element signature="e#306#307#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Healer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Healer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -613,7 +626,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RoomTest.canGetWinner">
+  <component name="RunManager" selected="JUnit.All in fantasy_adventure_lab_test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -804,9 +817,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.RoomTest.canGetWinner" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in fantasy_adventure_lab_test" />
         <item index="1" class="java.lang.String" itemvalue="JUnit.RoomTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.All in fantasy_adventure_lab_test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RoomTest.canGetWinner" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.HealerTest.canChangeHealingToolType" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.MagicalBeingTest.canChangeSpellType" />
       </list>
@@ -832,14 +845,11 @@
     <history-entry file="All_in_fantasy_adventure_lab_test - 2018.05.24 at 14h 04m 59s.xml">
       <configuration name="All in fantasy_adventure_lab_test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_fantasy_adventure_lab_test - 2018.05.24 at 15h 15m 40s.xml">
+      <configuration name="All in fantasy_adventure_lab_test" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="HealerTest_canChangeHealingToolType - 2018.05.24 at 13h 56m 53s.xml">
       <configuration name="HealerTest.canChangeHealingToolType" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MagicalBeingTest_canChangeMagicalCreatureType - 2018.05.24 at 13h 51m 53s.xml">
-      <configuration name="MagicalBeingTest.canChangeMagicalCreatureType" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MagicalBeingTest_canChangeSpellType - 2018.05.24 at 13h 51m 56s.xml">
-      <configuration name="MagicalBeingTest.canChangeSpellType" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RoomTest - 2018.05.24 at 14h 17m 07s.xml">
       <configuration name="RoomTest" configurationId="JUnit" />
@@ -851,6 +861,9 @@
       <configuration name="RoomTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RoomTest - 2018.05.24 at 14h 40m 02s.xml">
+      <configuration name="RoomTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RoomTest - 2018.05.24 at 14h 58m 01s.xml">
       <configuration name="RoomTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RoomTest_canGetWinner - 2018.05.24 at 14h 44m 58s.xml">
@@ -904,43 +917,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-          <folding>
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/WeaponType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="false" />
+            <element signature="e#196#197#0" expanded="false" />
+            <element signature="e#225#226#0" expanded="false" />
+            <element signature="e#259#260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -954,19 +939,6 @@
             <element signature="e#202#203#0" expanded="true" />
             <element signature="e#232#233#0" expanded="true" />
             <element signature="e#267#268#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SpellType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1026,6 +998,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MagicalBeingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="11" column="96" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Knight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FighterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1048,6 +1046,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RoomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding>
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MagicalBeing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1063,57 +1118,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MagicalBeingTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SpellType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="11" column="96" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="96" />
+        <state relative-caret-position="140">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-            <element signature="e#971#972#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Room.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RoomTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#985#986#0" expanded="true" />
-            <element signature="e#1040#1041#0" expanded="true" />
-            <element signature="e#1083#1084#0" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
           </folding>
         </state>
       </provider>
