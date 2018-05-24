@@ -73,6 +73,12 @@ public class FighterTest {
         assertEquals(80, fighter.getHealth());
     }
 
+    @Test
+    public void canChangeWeapon(){
+        fighter.changeWeapon(WeaponType.CLUB);
+        assertEquals(WeaponType.CLUB, fighter.getWeaponType());
+    }
+
 
 
 }

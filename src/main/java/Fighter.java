@@ -12,4 +12,7 @@ public class Fighter extends Player {
     }
 
 
+    public void changeWeapon(WeaponType newWeapon) {
+        this.weaponType = newWeapon;
+    }
 }
