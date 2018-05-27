@@ -25,4 +25,11 @@ public class MagicalBeing extends Player {
     public void changeMagicalCreatureType(MagicalCreatureType newMagicalCreatureType) {
         this.magicalCreatureType = newMagicalCreatureType;
     }
+
+    public void attack(Player opponent){
+        int damage = getSpellType().getDamage();
+        int confidenceLoss = getSpellType().getConfidenceLoss();
+        opponent.changeHealth(-damage);
+        opponent.changeConfidence(-confidenceLoss);
+    }
 }

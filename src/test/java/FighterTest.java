@@ -6,10 +6,12 @@ import static org.junit.Assert.assertEquals;
 public class FighterTest {
 
     Fighter fighter;
+    MagicalBeing magicalBeing;
 
     @Before
     public void before(){
         fighter = new Fighter(100, 500, 0, WeaponType.SWORD);
+        magicalBeing = new MagicalBeing(40, 60, 70, SpellType.FRIGHT, MagicalCreatureType.UNICORN);
     }
 
     @Test
@@ -77,6 +79,12 @@ public class FighterTest {
     public void canChangeWeapon(){
         fighter.changeWeapon(WeaponType.CLUB);
         assertEquals(WeaponType.CLUB, fighter.getWeaponType());
+    }
+
+    @Test
+    public void canAttackOpponent(){
+        fighter.attack(magicalBeing);
+        assertEquals(25, magicalBeing.getHealth());
     }
 
 

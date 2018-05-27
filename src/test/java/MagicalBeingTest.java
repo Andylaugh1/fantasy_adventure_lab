@@ -6,10 +6,12 @@ import static junit.framework.TestCase.assertEquals;
 public class MagicalBeingTest {
 
     MagicalBeing magicalBeing;
+    Fighter fighter;
 
     @Before
     public void before(){
         magicalBeing = new MagicalBeing( 40, 60, 70, SpellType.FRIGHT, MagicalCreatureType.UNICORN);
+        fighter = new Fighter(100, 500, 20, WeaponType.SWORD);
     }
 
     @Test
@@ -49,6 +51,13 @@ public class MagicalBeingTest {
     public void canChangeMagicalCreatureType(){
         magicalBeing.changeMagicalCreatureType(MagicalCreatureType.CENTAUR);
         assertEquals(MagicalCreatureType.CENTAUR, magicalBeing.getMagicalCreatureType());
+    }
+
+    @Test
+    public void canAttackOpponent(){
+        magicalBeing.attack(fighter);
+        assertEquals(95, fighter.getHealth());
+        assertEquals(10, fighter.getConfidence());
     }
 }
 
